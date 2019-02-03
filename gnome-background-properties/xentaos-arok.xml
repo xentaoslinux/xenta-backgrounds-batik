@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+
+<wallpaper deleted="false">
+    <name>Art of Xenta</name>
+    <filename>/usr/share/backgrounds/xentaos-arok/xenta-art.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Samman Guntur</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Maskot Xenta OS</name>
+    <filename>/usr/share/backgrounds/xentaos-arok/xenta-maskot.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Dindin Hernawan</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Xenta OS</name>
+    <filename>/usr/share/backgrounds/xentaos-arok/xentaos.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Dindin Hernawan</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Xenta X</name>
+    <filename>/usr/share/backgrounds/xentaos-arok/xenta-x.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Dindin Hernawan</artist>
+</wallpaper>
+
+</wallpapers>

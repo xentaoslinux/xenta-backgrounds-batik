@@ -1,0 +1,30 @@
+xenta-backgrounds-arok (1.3.2) arok; urgency=medium
+
+  * Perbaikan file debian/*
+    Pindah Repository Source ke github
+
+ -- Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  Sat, 11 Nov 2017 22:38:03 +0700
+
+xenta-backgrounds-arok (1.3-1) arok; urgency=medium
+
+  * Packing Ulang
+
+ -- Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  Sun, 05 Nov 2017 14:44:11 +0700
+
+xenta-backgrounds-arok (1.3+arok) arok; urgency=high
+
+  * Update Background Arok LTS
+
+ -- Dindin Hernawan <root@dev.xentaos.org>  Sun, 24 Sep 2017 12:41:51 +0700 
+
+xenta-backgrounds-arok (0.2) arok; urgency=high
+
+  * Updated backgrounds
+
+ -- Dindin Hernawan <dindin_hernawan@yahoo.com>  Thu, 16 Mar 2017 14:58:33 +0700 
+
+xenta-backgrounds-arok (0.1) arok; urgency=high
+
+  * Updated backgrounds
+
+ -- Dindin Hernawan <dindin_hernawan@yahoo.com>  Sun, 26 Feb 2017 22:00:35 +0700 
