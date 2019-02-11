@@ -1,14 +1,14 @@
-Source: xenta-backgrounds-arok
+Source: xenta-backgrounds-batik
 Section: admin
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.7
-Homepage: https://github.com/xentaos/xenta-backgrounds-arok
-Vcs-Browser: https://github.com/xentaos/xenta-backgrounds-arok.git
+Homepage: https://github.com/xentaoslinux/xenta-backgrounds-batik
+Vcs-Browser: https://github.com/xentaoslinux/xenta-backgrounds-batik.git
 
-Package: xenta-backgrounds-arok
+Package: xenta-backgrounds-batik
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Paket Wallpaper Desktop Xenta OS 1.3 LTS Arok.
- Wallpaper Desktop Bawaan untuk Xenta OS 1.3 LTS Arok Semua Edisi.
+Description: Paket Wallpaper Desktop Xenta OS 1.3 LTS Batik.
+ Wallpaper Desktop Bawaan untuk Xenta OS 1.3 LTS Batik Semua Edisi.

@@ -4,7 +4,7 @@
 
 <wallpaper deleted="false">
     <name>Art of Xenta</name>
-    <filename>/usr/share/backgrounds/xentaos-arok/xenta-art.png</filename>
+    <filename>/usr/share/backgrounds/xentaos-batik/xenta-art.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -13,8 +13,18 @@
 </wallpaper>
 
 <wallpaper deleted="false">
+    <name>Logotype Xenta OS</name>
+    <filename>/usr/share/backgrounds/xentaos-batik/xenta-logo.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Dindin Hernawan</artist>
+
+</wallpaper>
+<wallpaper deleted="false">
     <name>Maskot Xenta OS</name>
-    <filename>/usr/share/backgrounds/xentaos-arok/xenta-maskot.png</filename>
+    <filename>/usr/share/backgrounds/xentaos-batik/xenta-maskot.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -24,7 +34,7 @@
 
 <wallpaper deleted="false">
     <name>Xenta OS</name>
-    <filename>/usr/share/backgrounds/xentaos-arok/xentaos.png</filename>
+    <filename>/usr/share/backgrounds/xentaos-batik/xentaos.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -34,7 +44,7 @@
 
 <wallpaper deleted="false">
     <name>Xenta X</name>
-    <filename>/usr/share/backgrounds/xentaos-arok/xenta-x.png</filename>
+    <filename>/usr/share/backgrounds/xentaos-batik/xenta-x.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
